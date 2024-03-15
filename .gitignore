@@ -1,0 +1,7 @@
+.idea/
+target/
+dbt_packages/
+logs/
+sandbox_dbt.iml
+.user.yml
+package-lock.yml
