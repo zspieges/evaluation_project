@@ -5,3 +5,4 @@ logs/
 sandbox_dbt.iml
 .user.yml
 package-lock.yml
+sqlite/sqlite3.exe

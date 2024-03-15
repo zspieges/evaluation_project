@@ -1,0 +1,48 @@
+version: 2
+
+seeds:
+  - name: allergies
+    config:
+      enabled: false
+  - name: careplans
+    config:
+      enabled: false
+  - name: claims
+    config:
+      enabled: false
+  - name: conditions
+    config:
+      enabled: false
+  - name: devices
+    config:
+      enabled: false
+  - name: encounters
+    config:
+      enabled: true
+  - name: immunizations
+    config:
+      enabled: false
+  - name: medications
+    config:
+      enabled: false
+  - name: organizations
+    config:
+      enabled: true
+  - name: patients
+    config:
+      enabled: true
+  - name: payer_transitions
+    config:
+      enabled: false
+  - name: payers
+    config:
+      enabled: false
+  - name: procedures
+    config:
+      enabled: false
+  - name: providers
+    config:
+      enabled: true
+  - name: supplies
+    config:
+      enabled: false
