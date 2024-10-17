@@ -5,7 +5,7 @@ select
     prov.CITY as PROVIDERCITY,
     prov.STATE as PROVIDERSTATE,
     prov.ZIP as PROVIDERZIP,
-    prov.SPECIALTY as PROVIDERSPECIALITY,
+    prov.SPECIALITY as PROVIDERSPECIALITY,
     o.NAME as ORGANIZATIONNAME
 from
 {{ ref('providers') }} prov

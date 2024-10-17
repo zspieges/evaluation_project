@@ -7,5 +7,5 @@ sandbox:
         database: 'database'
         schema: 'main'
         schemas_and_paths:
-          main: '/duettechnical.db'
+          main: '/Users/zoespiegelhoff/Documents/duettechnical.db'
         schema_directory: 'sqlite'

@@ -8,3 +8,4 @@ sandbox_dbt.iml
 package-lock.yml
 sqlite/sqlite3.exe
 duettechnical.db
+.DS_Store
