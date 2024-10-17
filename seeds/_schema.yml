@@ -24,7 +24,7 @@ seeds:
       enabled: false
   - name: medications
     config:
-      enabled: false
+      enabled: true
   - name: organizations
     config:
       enabled: true
